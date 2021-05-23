@@ -1,2 +1,2 @@
 # hello_world
-fresh start
+print('hello world')
